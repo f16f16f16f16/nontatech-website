@@ -1,3 +1,3 @@
 ## Live
 
-(https://www.nontatech.dev)
+https://www.nontatech.dev
