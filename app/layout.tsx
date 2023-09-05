@@ -6,8 +6,8 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Nontaphat Developer",
-  description: "Nontaphat Portfolio",
+  title: "Nontaphat's Portfolio | Web Developer",
+  description: "Nontaphat's Coding Projects | Software Developer",
 };
 
 export default function RootLayout({
