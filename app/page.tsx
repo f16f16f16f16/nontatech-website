@@ -14,7 +14,7 @@ export default function Home() {
           <figure className="mt-10">
             <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-3xl sm:leading-9">
               <p>
-                “They say good things take time that's why I'm always late.”
+                “They say good things take time that&apos;s why I&apos;m always late.”
               </p>
             </blockquote>
             <figcaption className="mt-10">
