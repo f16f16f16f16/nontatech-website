@@ -9,7 +9,7 @@ function App({ Component, pageProps }) {
   return (
     <NextUIProvider className="bg-white">
       <Head>
-        <title>Nontaphat's Portfolio | Web Developer</title>
+        <title>Nontaphat&apos;s Portfolio | Web Developer</title>
         <meta name="description" content="Nontaphat's Coding Projects | Software Developer" />
       </Head>
       <Component {...pageProps} />
