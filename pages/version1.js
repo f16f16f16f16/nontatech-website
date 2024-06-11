@@ -33,7 +33,7 @@ export default function Version1() {
                 >
                   <circle cx={1} cy={1} r={1} />
                 </svg>
-                <div className="text-gray-600">Software Engineer</div>
+                <div className="text-gray-600">Software Developer</div>
               </div>
             </figcaption>
           </figure>
