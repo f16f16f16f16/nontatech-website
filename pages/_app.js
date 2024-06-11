@@ -7,9 +7,9 @@ import "@/styles/globals.css";
 
 function App({ Component, pageProps }) {
   return (
-    <NextUIProvider className="bg-white">
+    <NextUIProvider className="bg-[#0477BF]">
       <Head>
-        <title>Nontaphat&apos;s Portfolio | Web Developer</title>
+        <title>Nontaphat&apos;s Portfolio | Software Developer</title>
         <meta name="description" content="Nontaphat's Coding Projects | Software Developer" />
       </Head>
       <Component {...pageProps} />
