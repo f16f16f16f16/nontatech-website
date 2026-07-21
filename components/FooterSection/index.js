@@ -16,12 +16,12 @@ const FooterSection = () => {
         {/* Call to Action */}
         <motion.div initial={{ opacity: 0, y: 50 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.8 }}>
           <h2 className="text-3xl md:text-5xl lg:text-6xl font-light text-slate-800 mb-6">
-            Let's
+            Let&apos;s
             <span className="block text-sky-400">Connect</span>
           </h2>
           <p className="text-slate-500 max-w-md mx-auto mb-12">
-            I'm endlessly curious about building things — mobile apps, web platforms, whatever the problem calls for.
-            Always happy to connect, collaborate, or hear what you're working on.
+            I&apos;m endlessly curious about building things — mobile apps, web platforms, whatever the problem calls
+            for. Always happy to connect, collaborate, or hear what you&apos;re working on.
           </p>
 
           {/* Contact Button */}
