@@ -17,7 +17,7 @@ import image2020_13 from "../../assets/images/2020/13.JPG";
 import image2020_14 from "../../assets/images/2020/14.JPG";
 import image2020_15 from "../../assets/images/2020/15.JPG";
 import image2020_16 from "../../assets/images/2020/16.jpg";
-import image2020_17 from "../../assets/images/2020/17.Png";
+import image2020_17 from "../../assets/images/2020/17.PNG";
 import image2020_18 from "../../assets/images/2020/18.JPG";
 import image2020_10 from "../../assets/images/2020/10.jpg";
 import image2022_1 from "../../assets/images/2022/1.png";
