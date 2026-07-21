@@ -1,13 +1,11 @@
 import Head from "next/head";
-import { NextUIProvider } from "@nextui-org/react";
-import { Analytics } from "@vercel/analytics/react";
-
+import { Analytics } from '@vercel/analytics/react';
+import {NextUIProvider} from "@nextui-org/system";
 import "@/styles/globals.css";
 
-
-function App({ Component, pageProps }) {
+export default function App({ Component, pageProps }) {
   return (
-    <NextUIProvider className="bg-[#0477BF]">
+    <NextUIProvider className="bg-zinc-800">
       <Head>
         <title>Nontaphat&apos;s Portfolio | Software Developer</title>
         <meta name="description" content="Nontaphat's Coding Projects | Software Developer" />
@@ -17,5 +15,3 @@ function App({ Component, pageProps }) {
     </NextUIProvider>
   );
 }
-
-export default App;
